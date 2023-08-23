@@ -12,7 +12,7 @@ was abandoned, although in an advanced state of development. Check out the
 
 [allegory-sdk]: https://github.com/allegory-software/allegory-sdk
 [canvas-ui]:    https://github.com/allegory-software/canvas-ui
-[demo]:         https://raw.githack.com/allegory-software/x-widgets/demo.html
+[demo]:         https://raw.githack.com/allegory-software/x-widgets/main/demo.html
 
 # Highlights
 
