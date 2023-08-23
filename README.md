@@ -1,14 +1,14 @@
 # X-Widgets
 
-This project was the UI library of the [allegory-sdk] and contains a set of
+This project was the UI library of [allegory-sdk] and contains a set of
 high-performance model-driven mostly DOM-based web components written from
 scratch in JavaScript.
 
 In the summer of 2023, we pivoted to a canvas-drawn IMGUI library called
-[canvas-ui] for the Allegory SDK and stopped developing this. This project
-was still in alpha when it was abandoned, although in an advanced state of
-development. Check out the [demo] to get a quick feel for what works and
-what the features are.
+[canvas-ui] for the SDK and stopped developing this, after more than one
+man-year of effort put into it. This project was still in alpha when it
+was abandoned, although in an advanced state of development. Check out the
+[demo] to get a quick feel for what works and what the features are.
 
 [allegory-sdk]: https://github.com/allegory-software/allegory-sdk
 [canvas-ui]:    https://github.com/allegory-software/canvas-ui
