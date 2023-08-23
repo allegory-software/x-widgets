@@ -87,7 +87,7 @@ As far as the nav is concerned, any server that talks JSON would do.
 
 ## Docs & Demo
 
-As usual, docs are in the code but there's also a [demo] (on the dev branch)
+As usual, docs are in the code but there's also a [demo]
 which serves as a showcase of all the available widgets and their features,
 a quick reference on how to instantiate the widgets and what the options are,
 and as a testbed for development and finding bugs.
